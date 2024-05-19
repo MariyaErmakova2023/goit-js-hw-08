@@ -33,6 +33,10 @@ body {
   justify-content: center;
 }
 .modal img {
+  display: block;
   width: 1112px;
   height: 640px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
 }
