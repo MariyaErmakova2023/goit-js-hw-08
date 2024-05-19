@@ -26,17 +26,18 @@ body {
   height: auto;
 }
 .modal {
+  display: block;
   width: 1440px;
   height: 696px;
   margin: auto;
   align-items: center;
   justify-content: center;
+  padding: 24px 156px;
 }
 .modal img {
   display: block;
   width: 1112px;
   height: 640px;
-  margin: auto;
   align-items: center;
   justify-content: center;
 }
