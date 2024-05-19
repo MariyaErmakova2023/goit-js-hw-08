@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 1440px;
+  height: 696px;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 24px 156px;
+  gap: 24px;
+  list-style-type: none;
+  background: #fff;
+  margin: 0;
+}
+.gallery-link {
+}
+.gallery-item {
+  width: 360px;
+  height: 200px;
+  overflow: hidden;
+}
+.gallery-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.modal {
+  width: 1440px;
+  height: 696px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+.modal img {
+  width: 1112px;
+  height: 640px;
+}
